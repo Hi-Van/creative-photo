@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link as SmoothLink } from 'react-scroll';
+import Fade from 'react-reveal/Fade';
 import './App.css';
 
 class App extends Component {
@@ -29,15 +30,30 @@ class App extends Component {
         <h1 className='chart-opt'>I am looking for...</h1>
 
         <div className='btn-layout'>
-          <SmoothLink to="photos" smooth={true} duration={1000}><button className='btn-info'><span role="img" aria-label='papers'>🥇</span> PHOTO ONE</button></SmoothLink>
-          <SmoothLink to="photos" smooth={true} duration={1000}><button className='btn-info'><span role="img" aria-label='papers'>🥈</span> PHOTO TWO</button></SmoothLink>
+          <SmoothLink to="photos-one" smooth={true} duration={1000}><button className='btn-info'><span role="img" aria-label='papers'>🥇</span> PHOTO ONE</button></SmoothLink>
+          <SmoothLink to="photos-two" smooth={true} duration={1000}><button className='btn-info'><span role="img" aria-label='papers'>🥈</span> PHOTO TWO</button></SmoothLink>
         </div>
 
         <div className='spacer' />
 
-        <div id='photos'>
+        <div className='photos'>
+          <div id='photos-one'></div>
+          <div className='text-wrap'>
+            <Fade left>
+              <div>
+                <a href='' target='_blank'><span title='Click to view full image'><img className='sent-img' src={require('./screen-capture-creative.jpg')} alt='website-code' /></span></a>
+                <div className='text-other'>wave through the days <span className='wave'role='img' aria-label='wave emoji'>👋</span><span className='wave'role='img' aria-label='wave emoji'>👋</span><span className='wave'role='img' aria-label='wave emoji'>👋</span></div>
+                <img className='typing' src='https://media1.tenor.com/images/53d9fb19d58ca62f23311d8f8121863e/tenor.gif?itemid=12832638' alt='typing dots' />
+              </div>
+            </Fade>
+            <Fade right>
+              <div className='text-self'>text self</div>
+            </Fade>
+          </div>
         </div>
-      </div>
+
+        <div className='spacer' />
+      </div >
     );
   }
 }

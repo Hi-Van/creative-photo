@@ -48,6 +48,60 @@
   border-top: 2px solid #e6e6e6;
 }
 
+.typing {
+  display: block;
+  margin: 2vw;
+  max-width: 5vw;
+  min-width: 80px;
+}
+
+.sent-img {
+  display: block;
+  margin: 2vw;
+  max-width: 45.8vw;
+  min-width: 300px;
+  border-radius: 40px;
+}
+
+.img-btn {
+  background-color: rgba(0,0,0,0);
+}
+
+.wave {
+  animation-name: wave-animation;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(14deg);
+  }
+  20% {
+    transform: rotate(-8deg);
+  }
+  30% {
+    transform: rotate(14deg);
+  }
+  40% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
 a {
   text-decoration: none;
   cursor: pointer;
@@ -100,18 +154,60 @@ h2 {
   min-width: 100vw;
 }
 
-#photos {
+.photos {
   min-height: 100vh;
   min-width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
+
+#photos-one {
+  min-height: 10vh;
+  min-width: 100vw;
+}
+
+#photos-two {
+  min-height: 10vh;
+  min-width: 100vw;
+}
+
+.text-wrap {
+  min-height: 80vh;
+  min-width: 100vw;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(320px, 1fr) );
+}
+
+.text-self {
+  margin: 2vw;
+  text-align: left;
+  word-wrap: normal;
+  padding: 15px 40px 15px 40px;
+  border-radius: 40px 40px 0px 40px;
+  background-color: #58b6e6;
+  font-size: 2vh;
+  font-weight: 600;
+  font-family: "Raleway";
+  color: #ffffff;
+}
+
+.text-other {
+  margin: 2vw;
+  text-align: left;
+  word-wrap: normal;
+  padding: 15px 40px 15px 40px;
+  border-radius: 40px;
+  background-color: #e6e7ec;
+  font-size: 2vh;
+  font-weight: 600;
+  font-family: "Raleway";
+  color: #4d575c;
+}
+
 
 .btn-info {
   margin: 4vh;
   padding: 15px 40px 15px 40px;
   background-color: #58b6e6;
+  word-wrap: normal;
   font-size: 2vh;
   font-weight: 600;
   font-family: "Raleway";
