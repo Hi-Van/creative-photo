@@ -41,7 +41,7 @@ class App extends Component {
           <div className='text-wrap'>
             <Fade left>
               <div>
-                <a href='' target='_blank'><span title='Click to view full image'><img className='sent-img' src={require('./screen-capture-creative.jpg')} alt='website-code' /></span></a>
+                <img className='sent-img' src={require('./screen-capture-creative.jpg')} alt='website-code' />
                 <div className='text-other'>wave through the days <span className='wave'role='img' aria-label='wave emoji'>👋</span><span className='wave'role='img' aria-label='wave emoji'>👋</span><span className='wave'role='img' aria-label='wave emoji'>👋</span></div>
                 <img className='typing' src='https://media1.tenor.com/images/53d9fb19d58ca62f23311d8f8121863e/tenor.gif?itemid=12832638' alt='typing dots' />
               </div>
