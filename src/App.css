@@ -18,6 +18,7 @@
 .emoji-logo {
   display: block;
   margin-top: 12vh;
+  margin-bottom: -vh;
   font-size: 10vh;
 }
 
@@ -94,15 +95,17 @@ h2 {
   margin-bottom: 6vh;
 }
 
-.btn-chart {
-  margin: 4vh;
-  padding: 15px 40px 15px 40px;
-  background-color: #f57175;
-  font-size: 2vh;
-  font-weight: 600;
-  font-family: "Raleway";
-  border-radius: 5px;
-  color: #ffffff;
+.spacer {
+  min-height: 80vh;
+  min-width: 100vw;
+}
+
+#photos {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .btn-info {
@@ -131,50 +134,6 @@ h2 {
   background-color: #60bae7;
 }
 
-.btn-chart:hover {
-  background-color: #ff7a7e;
-}
-
 .btn-nav:hover {
   background-color: #eeeeee;
-}
-
-.graph-wrapper {
-  display: block;
-  margin: auto;
-  width: 80vw;
-  height: 90vh;
-}
-
-.input {
-  margin: 2vh;
-  border: none;
-  outline: none;
-  font-size: 2vh;
-  font-family: "Raleway";
-  font-weight: 600;
-  background-color: #e3e3e3;
-  padding: 15px 40px 15px 40px;
-  color: #707070;
-  border-radius: 5px;
-}
-
-.btn-submit {
-  margin: 2vh;
-  padding: 15px 20px 15px 20px;
-  background-color: #e3e3e3;
-  font-size: 2vh;
-  font-weight: 600;
-  font-family: "Raleway";
-  border-radius: 5px;
-  color: #707070;
-}
-
-.search {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  justify-items: center;
-  margin-top: 20vh;
-  margin-bottom: -15vh;
 }
