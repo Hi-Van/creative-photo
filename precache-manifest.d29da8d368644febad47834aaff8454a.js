@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ac74695428bd16986ccbec603aeed9f",
+    "revision": "5f69295ef076209c8d8b606ec1b6fd86",
     "url": "/creative-photo/index.html"
   },
   {
-    "revision": "5aa196c5bbc8dc4d213e",
+    "revision": "f50bb2dcfdc82c362a86",
     "url": "/creative-photo/static/css/main.df35b8b9.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-photo/static/js/2.b99379fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5aa196c5bbc8dc4d213e",
-    "url": "/creative-photo/static/js/main.29d25603.chunk.js"
+    "revision": "f50bb2dcfdc82c362a86",
+    "url": "/creative-photo/static/js/main.75293f0f.chunk.js"
   },
   {
     "revision": "3971893520415978251f",
     "url": "/creative-photo/static/js/runtime-main.b8be8278.js"
   },
   {
-    "revision": "4582a5fff37d8b19e64a22e365ac854e",
-    "url": "/creative-photo/static/media/artwork.4582a5ff.PNG"
+    "revision": "78e10af1cd83f7f8983d6e933741d497",
+    "url": "/creative-photo/static/media/Ben Apple.78e10af1.png"
   },
   {
     "revision": "38d0cdd3f10ccec5a5a72df7b3e9765e",
