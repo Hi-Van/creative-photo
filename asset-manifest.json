@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phoooto/static/css/main.54a045fa.chunk.css",
+    "main.js": "/phoooto/static/js/main.213a5124.chunk.js",
+    "main.js.map": "/phoooto/static/js/main.213a5124.chunk.js.map",
+    "runtime-main.js": "/phoooto/static/js/runtime-main.d072cc4e.js",
+    "runtime-main.js.map": "/phoooto/static/js/runtime-main.d072cc4e.js.map",
+    "static/js/2.933fee92.chunk.js": "/phoooto/static/js/2.933fee92.chunk.js",
+    "static/js/2.933fee92.chunk.js.map": "/phoooto/static/js/2.933fee92.chunk.js.map",
+    "index.html": "/phoooto/index.html",
+    "precache-manifest.0c60406b70e54f55dcaf952617e9df75.js": "/phoooto/precache-manifest.0c60406b70e54f55dcaf952617e9df75.js",
+    "service-worker.js": "/phoooto/service-worker.js",
+    "static/css/main.54a045fa.chunk.css.map": "/phoooto/static/css/main.54a045fa.chunk.css.map",
+    "static/js/2.933fee92.chunk.js.LICENSE.txt": "/phoooto/static/js/2.933fee92.chunk.js.LICENSE.txt",
+    "static/media/screen-capture-creative.jpg": "/phoooto/static/media/screen-capture-creative.38d0cdd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d072cc4e.js",
+    "static/js/2.933fee92.chunk.js",
+    "static/css/main.54a045fa.chunk.css",
+    "static/js/main.213a5124.chunk.js"
+  ]
+}
