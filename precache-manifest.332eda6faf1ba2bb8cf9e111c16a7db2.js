@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "673ad8e5cd0a8e5ed13076a7f1e3d526",
+    "revision": "b6e126c5d9cb387a8881cff3872c9c2d",
     "url": "/creative-photo/index.html"
   },
   {
-    "revision": "5932200e631a4acdc4cf",
-    "url": "/creative-photo/static/css/main.54a045fa.chunk.css"
+    "revision": "0bf1aff9c01b1b8b0274",
+    "url": "/creative-photo/static/css/main.df35b8b9.chunk.css"
   },
   {
-    "revision": "9ee2105516aca9e18797",
-    "url": "/creative-photo/static/js/2.933fee92.chunk.js"
+    "revision": "273f57a3b770e94e47eb",
+    "url": "/creative-photo/static/js/2.ad3d2fbc.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/creative-photo/static/js/2.933fee92.chunk.js.LICENSE.txt"
+    "url": "/creative-photo/static/js/2.ad3d2fbc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5932200e631a4acdc4cf",
-    "url": "/creative-photo/static/js/main.e3b1d812.chunk.js"
+    "revision": "0bf1aff9c01b1b8b0274",
+    "url": "/creative-photo/static/js/main.c7da47d2.chunk.js"
   },
   {
     "revision": "3971893520415978251f",
