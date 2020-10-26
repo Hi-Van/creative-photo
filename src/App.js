@@ -80,7 +80,7 @@ class App extends Component {
             <Fade right>
               <div className='text-self'> This photo is simply a screenshot of one of my graphic art projects. 
                Unlike the first photo, there really isn't as much of an explanation to this.
-               The reason why I chose this photo because it represents a part of me that contrasts with what people would imagine.
+               The reason why I chose this photo is because it represents a part of me that contrasts with what people would imagine.
                I often like to do things that people would expect me not to typically enjoy or take part in.
                That's why I started doing graphic art and self-studying graphic design and SVG editing when I entered college.
                It was always fun when I surprised others with my artwork or made custom computer backgrounds and designs.
