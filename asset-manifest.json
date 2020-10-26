@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/creative-photo/static/css/main.b72a1425.chunk.css",
-    "main.js": "/creative-photo/static/js/main.5761d932.chunk.js",
-    "main.js.map": "/creative-photo/static/js/main.5761d932.chunk.js.map",
+    "main.js": "/creative-photo/static/js/main.a6d005da.chunk.js",
+    "main.js.map": "/creative-photo/static/js/main.a6d005da.chunk.js.map",
     "runtime-main.js": "/creative-photo/static/js/runtime-main.b8be8278.js",
     "runtime-main.js.map": "/creative-photo/static/js/runtime-main.b8be8278.js.map",
     "static/js/2.b99379fd.chunk.js": "/creative-photo/static/js/2.b99379fd.chunk.js",
     "static/js/2.b99379fd.chunk.js.map": "/creative-photo/static/js/2.b99379fd.chunk.js.map",
     "index.html": "/creative-photo/index.html",
-    "precache-manifest.97a0400419249c8051a673e48c4dee5d.js": "/creative-photo/precache-manifest.97a0400419249c8051a673e48c4dee5d.js",
+    "precache-manifest.bbac27c58e15b02bcf0342471cf5dc38.js": "/creative-photo/precache-manifest.bbac27c58e15b02bcf0342471cf5dc38.js",
     "service-worker.js": "/creative-photo/service-worker.js",
     "static/css/main.b72a1425.chunk.css.map": "/creative-photo/static/css/main.b72a1425.chunk.css.map",
     "static/js/2.b99379fd.chunk.js.LICENSE.txt": "/creative-photo/static/js/2.b99379fd.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b8be8278.js",
     "static/js/2.b99379fd.chunk.js",
     "static/css/main.b72a1425.chunk.css",
-    "static/js/main.5761d932.chunk.js"
+    "static/js/main.a6d005da.chunk.js"
   ]
 }
