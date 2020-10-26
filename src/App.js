@@ -53,8 +53,8 @@ class App extends Component {
               Now, the question is why I specifically chose a picture of the website during its development process?
               To simply put, It's actually very similar to how I've felt and navigated through the struggles of college.
               Most people will only see the end result of most outward layer of my work. While people will see the finished website, they may not realize the painstaking work done to make it.
-              This is very similar to how I've been feeling through out college.
-              I've always been putting copious amounts behing all my projects, whether for academics or personal purposes, and it makes me feel bored or often isolated from the lack of free time I have.
+              This is very similar to how I've been feeling throughout college.
+              I've always been putting copious amounts behind all my projects, whether for academics or personal purposes, and it makes me feel bored or often isolated from the lack of free time I have.
               However, once I'm able to see the finished project on the left side, I start loving the process all over again.
               <i>I chose this photo because it is a literal representation of all the hard work I typically put in, that doesn't normally attract attention. The weeks of dedication it takes to complete things to my standard, as I smile and wave though the days.</i>
               <span className='wave'role='img' aria-label='wave emoji'>👋</span>
